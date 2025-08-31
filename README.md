@@ -15,6 +15,15 @@ Implementación de un algoritmo **KNN** utilizando la librería `scikit-learn`.
 
 ---
 
+## 📚 Zotero.
+Actualmente contiene las siguientes referencias:
+
+1. Zhang, G., Yau, K. K. W., & Chen, G. (2013). Risk factors associated with traffic violations and accident severity in China. *Traffic Injury Prevention, 14*(5), 487–495.  
+2. World Health Organization. (2018). *Global status report on road safety 2018*.  
+3. Elvik, R., Høye, A., Vaa, T., & Sørensen, M. (2009). *The handbook of road safety measures* (2nd ed.).
+
+---
+
 ### 🔗 Colaboradores
 - **Cristian Leonardo Rueda Quintanilla - 2172916**  
 - **Camilo José Pereira Millán - 2171845**

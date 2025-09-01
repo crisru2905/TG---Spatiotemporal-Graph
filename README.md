@@ -7,11 +7,11 @@ Resumen en LaTeX del artículo *Traffic Injury Prevention*.
 👉 [Enlace Overleaf](https://www.overleaf.com/4171976653vxcxwdvqdcmk#b263b9)
 
 ## 📊 Quarto
-Presentación de 3 diapositivas realizada con Quarto (pendiente de subir).
+Presentación de 3 diapositivas realizada con Quarto.
 
 ## 🤖 Kaggle
 Implementación de un algoritmo **KNN** utilizando la librería `scikit-learn`.  
-👉 [Enlace al Notebook en Kaggle](PENDIENTE)
+👉 [Enlace al Notebook en Kaggle](https://www.kaggle.com/code/camijope/primer-notebook-kaggle)
 
 ---
 

@@ -1,0 +1,15 @@
+---
+title: "Seguimiento de actividades"
+author: "Cristian Rueda & Camilo Pereira"
+date: "2025-09-04"
+format: html
+lang: es
+---
+
+| Descripción tarea              | Estado actual   | Siguientes acciones                     |
+|--------------------------------|-----------------|-----------------------------------------|
+| Integración con Kaggle          | ✅ Hecho        | Mantener sincronización con GitHub       |
+| Estado del Arte                 | ⏳ En proceso   | Ampliar redacción y agregar ejemplos     |
+| Referencias bibliográficas      | ✅ Completo     | Añadir nuevas fuentes si el profe lo pide|
+| Presentación de seguimiento     | ✅ Completo  | Revision por parte del profesor|
+| Librería Pytorch geometric temporal | ✅ Completo   | Revision por parte del profesor|

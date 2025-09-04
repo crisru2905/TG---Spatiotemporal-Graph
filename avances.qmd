@@ -5,11 +5,11 @@ date: "2025-09-04"
 format: html
 lang: es
 ---
+04.09.2025
 
 | Descripción tarea              | Estado actual   | Siguientes acciones                     |
 |--------------------------------|-----------------|-----------------------------------------|
-| Integración con Kaggle          | ✅ Hecho        | Mantener sincronización con GitHub       |
 | Estado del Arte                 | ⏳ En proceso   | Ampliar redacción y agregar ejemplos     |
-| Referencias bibliográficas      | ✅ Completo     | Añadir nuevas fuentes si el profe lo pide|
-| Presentación de seguimiento     | ✅ Completo  | Revision por parte del profesor|
-| Librería Pytorch geometric temporal | ✅ Completo   | Revision por parte del profesor|
+| Referencias bibliográficas      | ⏳ En proceso   | Añadir nuevas fuentes si el profe lo pide|
+| Librería Pytorch geometric temporal | ⏳ En proceso  | Revision por parte del profesor|
+

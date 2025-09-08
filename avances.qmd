@@ -9,7 +9,8 @@ lang: es
 
 | Descripción tarea              | Estado actual   | Siguientes acciones                     |
 |--------------------------------|-----------------|-----------------------------------------|
-| Estado del Arte                 | ⏳ En proceso   | Ampliar redacción y agregar ejemplos     |
-| Referencias bibliográficas      | ⏳ En proceso   | Añadir nuevas fuentes si el profe lo pide|
-| Librería Pytorch geometric temporal | ⏳ En proceso  | Revision por parte del profesor|
-
+| Estado del Arte                 | ⏳ En proceso   | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/2)|
+| Referencias bibliográficas      | ⏳ En proceso   | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/3)|
+| Librería Pytorch geometric temporal | ⏳ En proceso  | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/5)|
+| Integración con Kaggle| ✅ Realizado | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/1)|
+| Presentación seguimiento | ✅ Realizado | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/4)|

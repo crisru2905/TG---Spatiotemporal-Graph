@@ -1,12 +1,10 @@
 ---
 title: "Seguimiento de actividades"
 author: "Cristian Rueda & Camilo Pereira"
-date: "2025-09-04"
+date: "2025-09-15"
 format: html
 lang: es
 ---
-04.09.2025
-
 | Descripción tarea              | Estado actual   | Siguientes acciones                     |
 |--------------------------------|-----------------|-----------------------------------------|
 | Estado del Arte                 | ⏳ En proceso   | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/2)|
@@ -14,3 +12,4 @@ lang: es
 | Librería Pytorch geometric temporal | ⏳ En proceso  | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/5)|
 | Integración con Kaggle| ✅ Realizado | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/1)|
 | Presentación seguimiento | ✅ Realizado | [Issue](https://github.com/crisru2905/proyecto-predictPath/issues/4)|
+
